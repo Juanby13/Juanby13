@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Diaz
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=800&lines=U.S.+Army+Veteran;Software+Engineering+Student;Aspiring+Software+Developer;Learning+C%2B%2B%2C+Java%2C+and+Python;Building+My+Developer+Portfolio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=800&lines=U.S.+Army+Veteran;Software+Engineering+Student;Learning+C%2B%2B%2C+Java%2C+and+Python;Building+My+Developer+Portfolio" alt="Typing SVG" />
 
 <br>
 
